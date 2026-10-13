@@ -23,7 +23,6 @@ Building Technology That Creates Impact
 </a>
 
 </div>
-## 👋 Hi, I'm Iniyavarshne A
 
 I'm a final-year Computer Science and Engineering student
 interested in software development and technology-driven solutions.
