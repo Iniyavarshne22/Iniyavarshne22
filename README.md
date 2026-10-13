@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./banner.png.png" width="100%" alt="Iniyavarshne's GitHub Profile Banner">
-</div>
-
  <div align="center">
   <img src="./banner.png.png" width="100%" alt="Iniyavarshne's GitHub Profile Banner" />
 
