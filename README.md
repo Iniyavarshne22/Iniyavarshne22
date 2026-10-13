@@ -115,7 +115,6 @@ A web application that supports interaction between alumni, students, and admini
 
 [View Repository](https://github.com/Iniyavarshne22)
 
-> Replace the repository links above with the direct URLs of each project once the corresponding repositories are published.
 
 ## 💼 Experience
 
@@ -127,14 +126,11 @@ A web application that supports interaction between alumni, students, and admini
 - Developed and strengthened foundational web development skills.
 - Learned about building and maintaining web-based applications.
 
-*Add the exact technologies, tasks, and achievements from your internship experience to make this section stronger.*
 
 ## 🏆 Certifications & Achievements
 
 - 🧩 Practicing data structures and algorithms through coding challenges.
 - 💡 Focused on continuous technical learning and project development.
-
-*Add verified certification names, issuing organizations, and credential links here as you earn or confirm them.*
 
 ## 📈 Current Goals
 
