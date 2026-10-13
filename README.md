@@ -1,11 +1,12 @@
  <div align="center">
+
   <img src="./banner.png.png" width="100%" alt="Iniyavarshne's GitHub Profile Banner" />
 
   # Hi, I'm Iniyavarshne A 👋
 
   ### Final-Year Computer Science and Engineering Student | Aspiring Software Engineer
 
-  *Building practical software solutions through code, creativity, and continuous learning.*
+  *Building practical applications, solving problems, and learning through hands-on development.*
 
   <p>
     <a href="https://iniyavarshne22.github.io/My-portfolio/">
@@ -24,14 +25,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year Computer Science and Engineering student graduating in 2027, passionate about software development, problem-solving, and building technology-driven solutions.
+I'm a final-year Computer Science and Engineering student at Paavai Engineering College, graduating in 2027. I'm passionate about software engineering, backend development, and building applications that solve practical problems.
 
-- 🎓 Pursuing Computer Science and Engineering at Paavai Engineering College.
-- 💻 Interested in Python development, Java programming, and full-stack web development.
-- 🌐 Building web applications using modern frontend and backend technologies.
-- 🧠 Strengthening my data structures, algorithms, and problem-solving skills.
-- 🚀 Developing practical projects that address real-world challenges.
-- 🤝 Open to internships, graduate opportunities, and entry-level software engineering roles.
+- 🎓 Pursuing a degree in Computer Science and Engineering.
+- 💻 Programming with Python, Java, and JavaScript.
+- 🌐 Exploring full-stack development, REST APIs, and database design.
+- 🧩 Practicing data structures, algorithms, and coding challenges.
+- 🤖 Interested in AI-powered applications and personalized learning systems.
+- 🚀 Building hands-on projects to strengthen my software engineering skills.
+- 🤝 Open to internships and entry-level software engineering opportunities.
 
 ## 🛠️ Technical Skills
 
@@ -52,7 +54,7 @@ I'm a final-year Computer Science and Engineering student graduating in 2027, pa
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
 </p>
 
-### Backend Development & Databases
+### Backend Development and Databases
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -62,7 +64,7 @@ I'm a final-year Computer Science and Engineering student graduating in 2027, pa
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Tools & Technologies
+### Tools and Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -70,75 +72,94 @@ I'm a final-year Computer Science and Engineering student graduating in 2027, pa
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
 ## 🚀 Featured Projects
 
-### 1. Smart Campus Resource Management System
+### 1. LearnPath – Personalised Learning Platform
 
-A full-stack web application designed to improve campus resource allocation and academic scheduling.
-
-**Key Features**
-- 🏫 Classroom and laboratory management.
-- 📅 Permanent classroom allocation and timetable generation.
-- ⚠️ Detection of classroom, faculty, and scheduling conflicts.
-- 📌 Classroom booking for academic events.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB.
-
-[View Repository](https://github.com/Iniyavarshne22)
-
-### 2. SkillPath AI
-
-An AI-powered learning platform designed to help learners identify skill gaps and follow structured learning paths toward their career goals.
+A web-based learning platform designed to help students choose career goals, assess their skills, and track their learning progress.
 
 **Key Features**
-- 🎯 Career-oriented learning paths.
-- 📊 Skill assessments and skill-gap identification.
-- 🗺️ Personalized learning roadmaps and curated resources.
-- 🏆 Progress tracking, milestones, and learning analytics.
+- 🔐 Student registration and login.
+- 🎯 Career-oriented learning roadmaps.
+- 📝 Skill assessments and personalized recommendations.
+- 📊 Learning progress tracking.
+- 🗄️ MySQL database integration.
 
-**Technologies:** Python, Flask, MySQL, Scikit-learn, Pandas, NumPy, Chart.js.
+**Technologies:** Python, Flask, MySQL, HTML, CSS, JavaScript.
 
-[View Repository](https://github.com/Iniyavarshne22)
+**Repository:** [LearnPath – Personalised Learning Platform](https://github.com/Iniyavarshne22/LearnPath-Personalised-Learning-Platform)
+
+### 2. Water Footprint Calculator
+
+A web application designed to help users estimate their water footprint based on everyday activities and understand their water consumption habits.
+
+**Key Features**
+- 💧 Estimates water usage based on user inputs.
+- 🚿 Covers daily activities such as bathing, laundry, and other water-consuming habits.
+- 📊 Displays estimated water consumption results.
+- 🌱 Provides practical suggestions for conserving water.
+- 📱 Simple, user-friendly interface.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+**Repository:** [View Water Footprint Calculator](https://github.com/Iniyavarshne22)
 
 ### 3. Alumni Interaction Portal
 
-A web application that supports interaction between alumni, students, and administrators.
+A web application designed to connect students and alumni while supporting alumni registration and administrative management.
 
 **Key Features**
 - 🔐 User authentication.
-- 👥 Alumni management and administration.
+- 👥 Alumni registration and management.
 - ✅ Admin approval and rejection of alumni registrations.
 - 🔗 LinkedIn profile integration.
+- 🗄️ Database-backed information management.
 
-**Technologies:** HTML, CSS, Flask, MySQL.
+**Technologies:** HTML, CSS, Python, Flask, MySQL.
 
-[View Repository](https://github.com/Iniyavarshne22)
+**Repository:** [View Alumni Interaction Portal](https://github.com/Iniyavarshne22)
 
+### 4. Personal Portfolio Website
 
+A personal portfolio website showcasing my technical skills, projects, experience, and career interests.
+
+**Key Features**
+- 👩‍💻 Professional introduction and profile.
+- 🛠️ Technical skills and technology stack.
+- 🚀 Project showcase.
+- 📄 Resume access.
+- 📬 Contact and professional networking links.
+- 📱 Responsive website design.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+**Live Website:** [Visit My Portfolio](https://iniyavarshne22.github.io/My-portfolio/)
+
+**Repository:** [View GitHub Repositories](https://github.com/Iniyavarshne22)
 ## 💼 Experience
 
 ### Web Development Intern — Digidara Technologies
 
 **Duration:** 1 month
 
-- Gained practical exposure to web development through an internship.
-- Developed and strengthened foundational web development skills.
+- Gained practical exposure to web development.
+- Strengthened foundational frontend and web application development skills.
 - Learned about building and maintaining web-based applications.
 
+## 🏆 Achievements and Learning
 
-## 🏆 Certifications & Achievements
+- 🧩 Regularly practicing programming and problem-solving.
+- 💻 Developing projects to apply concepts learned through coursework.
+- 📚 Continuously improving programming, database, and web development skills.
 
-- 🧩 Practicing data structures and algorithms through coding challenges.
-- 💡 Focused on continuous technical learning and project development.
+## 🎯 Current Goals
 
-## 📈 Current Goals
-
-- Improve problem-solving and data structures and algorithms skills.
-- Strengthen full-stack development and backend API development.
-- Build reliable, well-documented software projects.
-- Prepare for software engineering internships and graduate recruitment.
-- Learn more about AI-powered applications and practical machine learning.
+- Strengthen data structures and algorithms.
+- Improve Python and Java programming skills.
+- Build reliable full-stack applications and REST APIs.
+- Improve database design, debugging, and testing practices.
+- Explore AI integration in practical software applications.
+- Prepare for software engineering internships and graduate recruitment in 2027.
 
 ## 📊 GitHub Activity
 
